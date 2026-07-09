@@ -1,4 +1,4 @@
-# Ray Romano Contracting — Website
+## Ray Romano Contracting — Website
  
 A single-page marketing website for **Ray Romano Contracting**, a boutique NYC/Hamptons renovation and general contracting company. Built with plain HTML and CSS (no framework, no build step).
  
